@@ -3,6 +3,9 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const simpleAdd = (x: number, y: number) => x + y;
+  const test00 = simpleAdd(4, 6); //?
+
   return (
     <div className="App">
       <header className="App-header">

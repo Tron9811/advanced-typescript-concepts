@@ -2,3 +2,5 @@
 > Utility types (Omit, Record)
 union types, tupples 
 mixins and intersections/ partial classes
+
+https://www.freecodecamp.org/news/typescript-curry-ramda-types-f747e99744ab/

@@ -1,0 +1,4 @@
+> Decorators 
+> Utility types (Omit, Record)
+union types, tupples 
+mixins and intersections/ partial classes
